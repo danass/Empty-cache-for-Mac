@@ -16,4 +16,8 @@ $ pwd
 /Users/your_username
 
 chmod +x empty_caches.sh
-./empty_caches.sh
+
+./empty_caches.sh´
+
+
+Please exercise caution when using the `rm` command, as it permanently deletes files. Make sure the specified directory is the intended cache folder and that you have a backup of any important files before running the script.
