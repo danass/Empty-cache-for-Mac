@@ -1,6 +1,6 @@
 #!/bin/bash
-username="replace_your_username"
-folder="/Users/$username/Library/Caches"
+current_user=$(whoami)
+folder="/Users/$current_user/Library/Caches"
 
 # Find all subdirectories in the specified folder
 find "$folder" -type d -mindepth 1 -maxdepth 1 | while read -r subfolder; do
