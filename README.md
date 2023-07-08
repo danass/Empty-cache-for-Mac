@@ -4,7 +4,7 @@ on Mac
 dont buy CleanMyMac X
 just do it manually
 
-# Cache Cleaner
+# Mac Cache Cleaner
 
 This script is designed to help you clean up cache files in a specified directory and its subdirectories. It recursively deletes all files within each subdirectory, allowing you to quickly empty cache folders.
 
