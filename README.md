@@ -18,7 +18,8 @@ Copy and paste empty_caches.sh script content in a new Terminal window.
 Or
 
 open Terminal
-wget file
+
+`wget https://github.com/danass/Mac-Library-Caches-Cleaner/blob/main/empty_caches.sh`
 
 `chmod +x empty_caches.sh`
 
