@@ -13,6 +13,7 @@ This script is designed to help you clean up cache files in a specified director
 - macOS
   
 ## Usage
+Just download file and go to file in a new Terminal window, then run the script.
 
 `chmod +x empty_caches.sh`
 
