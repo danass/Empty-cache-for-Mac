@@ -14,10 +14,6 @@ This script is designed to help you clean up cache files in a specified director
   
 ## Usage
 
-Replace your_username with your Mac user folder in script.
-$ pwd
-/Users/your_username
-
 chmod +x empty_caches.sh
 
 ./empty_caches.sh´
