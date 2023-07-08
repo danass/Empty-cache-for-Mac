@@ -19,7 +19,7 @@ Or
 
 open Terminal
 
-`wget https://github.com/danass/Mac-Library-Caches-Cleaner/blob/main/empty_caches.sh`
+`curl -O https://raw.githubusercontent.com/danass/Mac-Library-Caches-Cleaner/main/empty_caches.sh`
 
 `chmod +x empty_caches.sh`
 
