@@ -1,8 +1,10 @@
 # delete-Library-Caches
 Is it safe to delete ~/Library/Caches
 on Mac
-dont buy CleanMyMac X
-just do it manually
+
+Dont buy CleanMyMac X,
+just do it manually. 
+
 
 # Mac Cache Cleaner
 
